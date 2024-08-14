@@ -1,6 +1,5 @@
 # MkDocs build directories
 site/
-*.html
 
 # Python cache files
 __pycache__/
