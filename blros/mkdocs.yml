@@ -1,0 +1,15 @@
+site_name: Black Rocket OS
+site_url: https://blackrocketos.com
+site_description: Landing page and docs for Black Rocket OS
+site_author: IntelliSoftAlpin
+copyright: IntelliSoftAlpin
+theme:
+    name: mkdocs
+    custom_dir: docs/theme
+    color_mode: dark
+    color_toggle: true
+nav:
+    - Download: download.md
+    - About: about.md
+extra_css:
+    - assets/stylesheets/extra.css

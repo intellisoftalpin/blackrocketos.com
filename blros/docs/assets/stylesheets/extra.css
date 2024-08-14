@@ -1,0 +1,7 @@
+/* Hide the sidebar */
+body.homepage .bs-sidebar {
+    display: none;
+}
+
+.nav-link[rel="next"] {display: none;}
+.nav-link[rel="prev"] {display: none;}

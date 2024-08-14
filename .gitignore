@@ -1,0 +1,49 @@
+# MkDocs build directories
+site/
+*.html
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# macOS-specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# macOS folder attributes
+.Spotlight-V100
+.Trashes
+.AppleDouble
+.LSOverride
+.VolumeIcon.icns
+.metadata_never_index
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# MkDocs configuration
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# JetBrains IDEs
+.idea/
+
+# VS Code
+.vscode/
+
+# Other editors
+*~
+*.swp
